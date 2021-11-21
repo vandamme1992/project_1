@@ -6,4 +6,4 @@ let and = false,
 
 console.log(and || !post);
 
-console.log(post);
+console.log(post, and);
